@@ -1,0 +1,15 @@
+{
+  "type": "python",
+  "testFiles": [
+    {
+      "path": "tests/lab_test.py",
+      "testCases": [
+        {
+          "methodName": "test_problem1",
+          "label": "Verify the song table was created",
+          "description": "Runs problem1(), which should create the song table, then attempts to insert a row to confirm it exists."
+        }
+      ]
+    }
+  ]
+}
